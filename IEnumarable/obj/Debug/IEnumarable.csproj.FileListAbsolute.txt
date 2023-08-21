@@ -1,0 +1,7 @@
+C:\Users\halil\source\repos\IEnumarable\IEnumarable\bin\Debug\IEnumarable.exe.config
+C:\Users\halil\source\repos\IEnumarable\IEnumarable\bin\Debug\IEnumarable.exe
+C:\Users\halil\source\repos\IEnumarable\IEnumarable\bin\Debug\IEnumarable.pdb
+C:\Users\halil\source\repos\IEnumarable\IEnumarable\obj\Debug\IEnumarable.csproj.AssemblyReference.cache
+C:\Users\halil\source\repos\IEnumarable\IEnumarable\obj\Debug\IEnumarable.csproj.CoreCompileInputs.cache
+C:\Users\halil\source\repos\IEnumarable\IEnumarable\obj\Debug\IEnumarable.exe
+C:\Users\halil\source\repos\IEnumarable\IEnumarable\obj\Debug\IEnumarable.pdb
